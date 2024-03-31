@@ -1,0 +1,13 @@
+.student-dashboard-container {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .form-input {
+    margin-bottom: 10px;
+  }
+  
+  .upload-button {
+    align-self: flex-start;
+  }
+  

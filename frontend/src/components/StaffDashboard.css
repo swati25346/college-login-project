@@ -1,0 +1,34 @@
+.staff-dashboard-container {
+    margin: 20px;
+  }
+  
+  .staff-dashboard-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .staff-dashboard-table th,
+  .staff-dashboard-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .staff-dashboard-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  .staff-dashboard-table td button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .staff-dashboard-table td button:hover {
+    background-color: #0056b3;
+  }
+  
